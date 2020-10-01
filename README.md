@@ -1,0 +1,1 @@
+Note that after the running the back-end program, we have to add credentials of "Admin" ourself in the user_test table of our database to access Admin priveleges like Modifying Test And Modifiying QUestions in that test.
